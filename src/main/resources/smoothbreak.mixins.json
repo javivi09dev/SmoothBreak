@@ -5,6 +5,7 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "smoothbreak.refmap.json",
   "mixins": [
+    "MultiPlayerGameModeMixin"
   ],
   "client": [
   ],
